@@ -29678,5 +29678,12 @@
     "author": "Rafael Mehdiyev",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Create new notes by cloning properties from any existing note.",
     "repo": "rafaelmehdiyev/obsidian-reference-note"
-  }
+  },
+  {
+  "id": "red-signer",
+  "name": "Red Signer",
+  "author": "StandardCodebase",
+  "description": "Sign markdown notes with ed25519 and maintain a verifiable manifest.",
+  "repo": "StandardCodebase/obsidian-red-signer"
+}
 ]
